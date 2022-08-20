@@ -10,17 +10,17 @@
 
 ## 1. 데이터
 - train.csv
-    - 
+    - s
 - test.csv
-    - 
+    - s
 - sample_submission.csv
-    -
+    - s
 - stores.csv
-    -
+    - s
 - oil.csv
-    -
+    - s
 - holidays_events.csv
-    -
+    - s
     
 ## 2. EDA
 

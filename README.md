@@ -10,12 +10,18 @@
 
 ## 1. 데이터
 - train.csv
+    - 
 - test.csv
+    - 
 - sample_submission.csv
+    -
 - stores.csv
+    -
 - oil.csv
+    -
 - holidays_events.csv
-
+    -
+    
 ## 2. EDA
 
 ## 3. 모델 선정

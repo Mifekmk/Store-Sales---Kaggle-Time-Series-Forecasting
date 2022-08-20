@@ -9,6 +9,12 @@
 - 대회링크 (https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)
 
 ## 1. 데이터
+- train.csv
+- test.csv
+- sample_submission.csv
+- stores.csv
+- oil.csv
+- holidays_events.csv
 
 ## 2. EDA
 

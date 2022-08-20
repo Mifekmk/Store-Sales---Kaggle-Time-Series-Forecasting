@@ -1,4 +1,4 @@
-# Store-Sales---Time-Series-Forecasting
+# Store-Sales__Time-Series-Forecasting
 <p align="center">
     <img src="images/corporation.png">
 </p>

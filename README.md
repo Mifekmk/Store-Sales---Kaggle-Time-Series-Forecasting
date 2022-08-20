@@ -2,6 +2,7 @@
 <p align="center">
     <img src="images/corporation.png">
 </p>
+
 ## 0. 대회 정보
 
 ## 1. 데이터

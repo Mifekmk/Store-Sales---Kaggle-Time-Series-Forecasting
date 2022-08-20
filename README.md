@@ -9,18 +9,31 @@
 - 대회링크 (https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)
 
 ## 1. 데이터
+- store_nbr은 제품이 판매되는 스토어를 식별합니다.
+- family는 판매된 제품 유형을 식별합니다.
+- sales(target_column)은 지정된 날짜에 특정 상점에서 제품군에 대한 총 매출을 제공합니다. 분수 값(ex. 설탕 1.5kg)도 가능합니다.
+- onpromotion은 지정된 날짜에 스토어에서 프로모션을 수행하던 제품군의 총 항목 수를 제공합니다.
+- cluster는 유사한 저장소 그룹입니다.
+- (holiday_event) 칼럼 설명 작성하기
+
 - train.csv
-    - s
+    - (3000888, 6)
+    - columns : id, date, store_nbr, family, sales, onpromotion
 - test.csv
-    - s
+    - (28512, 5)
+    - columns : id, date, store_nbr, family, onpromotion
 - sample_submission.csv
-    - s
+    - (28512, 2)
+    - columns : id, sales
 - stores.csv
-    - s
+    - (54, 5)
+    - columns : store_nbr, city, state, type, cluster
 - oil.csv
-    - s
+    - (1218, 1)
+    - columns : date, dcoilwtico
 - holidays_events.csv
-    - s
+    - (350, 6)
+    - columns : date, type, locale, lacale_name, description, transferred
     
 ## 2. EDA
 

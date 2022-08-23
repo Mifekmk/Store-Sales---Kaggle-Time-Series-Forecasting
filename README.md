@@ -34,6 +34,10 @@
     - (350, 6)
     - columns : date, type, locale, lacale_name, description, transferred
     
+- transaction.csv
+    - (83488, 3)
+    - columns = date, store_nbr, transactions
+
 ## 2. EDA
 - 참고 사항
     - 에콰도르에서는 공공 부문에서 근로하는 근로자들의 임금이 15일과 마지막 날 등 2주에 한 번 지급 됩니다. 슈퍼마켓 판매는 이것에 의해 영향 받을 수 있습니다.

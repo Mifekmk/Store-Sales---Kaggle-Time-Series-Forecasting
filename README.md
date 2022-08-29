@@ -1,4 +1,4 @@
-# Kaggle Store-Sales__Time-Series-Forecasting
+# Kaggle-Store-Sales__Time-Series-Forecasting
 <p align="center">
     <img src="images/corporation.png">
 </p>

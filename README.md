@@ -104,7 +104,7 @@
 - 휴일 type 별 매출액의 평균을 나타내었습니다. 국가 공휴일과 이전된 날짜의 휴일에서 가장 많은 매출 평균을 기록하였고, Work Day와 Holiday에서 가장 낮은 매출 평균을 기록 하였습니다.
 
 <p align="left">
-    <img src="images/transactions_1.PNG">
+    <img src="images/transactions_01.PNG">
 </p>
 
 - store_nbr 별 거래량을 표시하였습니다.

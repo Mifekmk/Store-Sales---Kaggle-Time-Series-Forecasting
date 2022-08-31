@@ -131,7 +131,7 @@
 먼저, train set 8만개를 사용하여 AutoML을 실행해보았습니다. 
 
 <p align="left">
-    <img src="AutoML_80000.PNG">
+    <img src="images/AutoML_80000.PNG">
 </p>
 
 각각의 단일 모델들과 앙상블 모델을 사용할 계획을 세울 수 있게 되었습니다.

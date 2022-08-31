@@ -45,7 +45,7 @@
 
 - [EDA 1](https://public.tableau.com/app/profile/.24806894/viz/_16614976805320/1)
 - [EDA 2](https://public.tableau.com/app/profile/.24806894/viz/states_16615888582370/1_1?publish=yes)
-<br>위의 두개의 EDA를 통해서 알게 된 점
+<br><br>위의 두개의 EDA를 통해서 알게 된 점
 1. sales와 onpromotion은 상당한 연관성을 지니고 있다.(promotion이 늘어날수록 sales 도 같이 증가하는 추세를 보인다.)
 
 2. 각 지역에서 평균 매출액이 높은 상품군은 음료지만 전체 매출액으로 보면 식료품이 가장 높은 매출액을 차지했다.

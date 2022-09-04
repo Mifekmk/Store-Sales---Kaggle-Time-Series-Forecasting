@@ -138,6 +138,11 @@
 
 ### 3.1 Random Forest(0.40080)
 
+<p align="left">
+    <img src="images/RandomForest_Score.png">
+</p>
+
+
 ### 3.2 CatBoost(0.39525)
 
 ### 3.3 Ensemble(MultivariateTS / Random Forest / CatBoost / LightGBM / XGBoost)(1.02358)

@@ -136,4 +136,15 @@
 
 각각의 단일 모델들과 앙상블 모델을 사용할 계획을 세울 수 있게 되었습니다.
 
+### 3.1 Random Forest(0.40080)
+
+### 3.2 CatBoost(0.39525)
+
+### 3.3 Ensemble(MultivariateTS / Random Forest / CatBoost / LightGBM / XGBoost)(1.02358)
+
+### 3.4 MultivariateTS(0.39261 ★가장 좋은 모델)
+
+- 다변수 시계열(Multivariate Time Series)에는 둘 이상의 시간 종속 변수가 있습니다.
+- 각 변수는 과거 값에 의존할 뿐만 아니라 다른 변수에도 어느 정도 의존합니다. 이 종속성은 미래 값을 예측하는데 사용됩니다.
+
 ## 4. 프로젝트 결과
